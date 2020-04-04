@@ -1,0 +1,24 @@
+{
+  "name": "test_GITUB_yarn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthieuBA/test_GITUB_yarn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthieuBA/test_GITUB_yarn/issues"
+  },
+"homepage":"https://matthieuBA.github.io/test_GITUB_yarn",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
